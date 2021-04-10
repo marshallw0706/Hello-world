@@ -1,1 +1,4 @@
-cout << "this is a test..." << endl;
+int main() {
+	cout << "this is a test..." << endl;
+}
+
